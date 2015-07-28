@@ -26,6 +26,12 @@ To be able to type just `wp-pluginator-lite`, instead of `php wp-pluginator-lite
 
 Now try running `wp-pluginator-lite help`
 
+
+## Plugin boilerplate generator
+
+    wp-pluginator-lite make:plugin
+
+  You will be asked a series of questions regarding plugin generation and plugin folder will be created on the current working folder.
   
   
   ** Note: `This lite version provides a basic plugin boilerplate generation functionality without the ORM and database migrations`
